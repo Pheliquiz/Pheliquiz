@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Os - Json - Pandas - Adobe Premiere - Photoshop.</strong>
+  💼 Ferramentas: <strong>Os - Json - Pandas - .NET - Adobe Premiere - Photoshop.</strong>
 </p>
 
 <p align="left">
