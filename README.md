@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python.</strong>
+  🦄 Linguagens: <strong>Python. - C#</strong>
 </p>
 
 <p align="left">
